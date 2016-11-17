@@ -1,0 +1,15 @@
+body {height:100px; padding:20px 0; position:relative;}
+.jumbotron {padding:50px 0; text-align: center;}
+.logo {margin-bottom:20px;}
+#content {position:relative;}
+.info {padding-bottom:700px; padding-top:50px;}
+.affix h1 {font-size:18px;}
+.info ul {margin-bottom:20px;}
+.info ul li {font-size:16px; margin-top:10px;}
+.info ul li button {display:block; margin-top:10px;}
+.media-body .lead {margin-left:20px; margin-right:20px;}
+span.glyphicon {cursor:pointer;}
+h2.smaller {font-size:18px;}
+.alert {display:inline-block;}
+.alert .lead {font-size:30px;}
+.media > .pull-left {margin-right:20px;}
